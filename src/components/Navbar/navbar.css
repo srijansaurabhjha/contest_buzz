@@ -1,0 +1,11 @@
+.logo{
+  height: 7vh;
+  border: 2px solid #EEEEEE;
+}
+.link{
+    text-decoration: none;
+    margin: 4%;
+    font-family: 'PT Mono', monospace;
+    font-weight: bold;
+    letter-spacing: 0.14rem;
+}
